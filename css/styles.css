@@ -1,3 +1,4 @@
+/* Carousel */
 .carousel-item {
     height: 569px;
     background-color: black;
@@ -6,3 +7,10 @@
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.5);
 }
+/* End of Carousel */
+
+/* Footer */
+.fa-brands {
+    color: rgb(184, 75, 184);
+}
+/* End of Footer */
